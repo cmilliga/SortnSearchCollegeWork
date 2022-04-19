@@ -1,0 +1,58 @@
+10 Numbers mostly Descending order
+40
+43
+30
+42
+41
+36
+45
+38
+37
+35
+
+BubbleSort
+Sorted: 
+30
+35
+36
+37
+38
+40
+41
+42
+43
+45
+The number of comparisons within the Bubble Sort: 81
+The number of swaps within the Bubble Sort: 28
+
+QuickSort
+Sorted: 
+30
+35
+36
+37
+38
+40
+41
+42
+43
+45
+The number of total Partitions within the Quick Sort: 6
+The number of comparisons within the Quick Sort: 27
+The number of Initial Swaps within the Quick Sort: 12
+The number of Secondary Swaps within the Quick Sort: 6
+
+InsertSort
+Sorted: 
+30
+35
+36
+37
+38
+40
+41
+42
+43
+45
+The number of Shifts within the Insertion Sort: 28
+The number of Insertions within the Insertion Sort: 9

@@ -1,0 +1,11 @@
+10 Numbers mostly Ascending order
+12
+14
+18
+15
+16
+17
+19
+20
+21
+15

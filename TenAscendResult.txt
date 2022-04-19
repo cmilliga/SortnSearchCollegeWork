@@ -1,0 +1,58 @@
+10 Numbers mostly Ascending order
+12
+14
+18
+15
+16
+17
+19
+20
+21
+15
+
+BubbleSort
+Sorted: 
+12
+14
+15
+15
+16
+17
+18
+19
+20
+21
+The number of comparisons within the Bubble Sort: 63
+The number of swaps within the Bubble Sort: 9
+
+QuickSort
+Sorted: 
+12
+14
+15
+15
+16
+17
+18
+19
+20
+21
+The number of total Partitions within the Quick Sort: 7
+The number of comparisons within the Quick Sort: 22
+The number of Initial Swaps within the Quick Sort: 9
+The number of Secondary Swaps within the Quick Sort: 7
+
+InsertSort
+Sorted: 
+12
+14
+15
+15
+16
+17
+18
+19
+20
+21
+The number of Shifts within the Insertion Sort: 9
+The number of Insertions within the Insertion Sort: 9

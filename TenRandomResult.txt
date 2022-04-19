@@ -1,0 +1,58 @@
+10 Numbers in Random Order
+40
+73
+71
+68
+46
+45
+27
+29
+46
+50
+
+BubbleSort
+Sorted: 
+27
+29
+40
+45
+46
+46
+50
+68
+71
+73
+The number of comparisons within the Bubble Sort: 63
+The number of swaps within the Bubble Sort: 28
+
+QuickSort
+Sorted: 
+27
+29
+40
+45
+46
+46
+50
+68
+71
+73
+The number of total Partitions within the Quick Sort: 6
+The number of comparisons within the Quick Sort: 21
+The number of Initial Swaps within the Quick Sort: 13
+The number of Secondary Swaps within the Quick Sort: 6
+
+InsertSort
+Sorted: 
+27
+29
+40
+45
+46
+46
+50
+68
+71
+73
+The number of Shifts within the Insertion Sort: 28
+The number of Insertions within the Insertion Sort: 9
